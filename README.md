@@ -21,7 +21,6 @@
 🎓 **Currently:** B.Tech in Information Technology with Cloud Computing Minor at **Vivekanand Education Society's Institute of Technology, Chembur**  
 🏆 **CGPA:** 9.875/10  
 📍 **Location:** Mumbai, India  
-📱 **Contact:** +91-9320398763
 
 ---
 
