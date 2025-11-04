@@ -1,7 +1,7 @@
 <div align="center">
   
 # 🚀 Atharva Lotankar
-### *Innovative IT Student | AI/ML Enthusiast | Full-Stack Developer*
+### *Innovative IT Student | AI/ML Enthusiast | Data Analytics | Web & App Development | Cloud Computing*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Transforming+Ideas+into+Code;AI%2FML+%26+Web+Development;Passionate+Problem+Solver;Always+Learning+%26+Growing" alt="Typing SVG" />
 
