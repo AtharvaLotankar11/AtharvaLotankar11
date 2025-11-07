@@ -59,7 +59,7 @@
 </td>
 <td width="50%">
 
-### 🤖 Vivekanand Education Society's Institute
+### 🤖 Vivekanand Education Society's Institute of Technology
 **Intern in Agentic AI** *(May 2025 - Aug 2025)*
 - 💬 Built Human-to-Agent Chat & Chain-of-Thought systems
 - 🎭 Developed multi-agent comedy & Bootstrap UI agent
