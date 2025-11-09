@@ -150,7 +150,7 @@
 
 </div>
 
----## 🏆
+🏆
  Achievements & Certifications
 
 <details>
@@ -160,20 +160,21 @@
 - 🏅 **Google Cloud Skills Boost Badges:** Pub/Sub, Speech API, Prompt Design (Vertex AI) & Google Cloud Network
 - 🏅 **AWS Academy Graduate:** Cloud Foundations Completion Certificate
 - 🏅 **NVIDIA Certificate:** AI Fundamentals & Deep Learning Application for Anomaly Detection
-- 🏅 **Colorado State University:** Course Certificate - DWH Concepts, Design, and Data Integration
+- 🏅 **Colorado State University under Coursera:** Course Certificate - DWH Concepts, Design, and Data Integration
 - 🏅 **ISA-VESIT Certificate:** RPI/Linux BootCamp & AppSprint Full Stack Workshop
 
 ### 🎯 Specialized Training
-- 🏅 **IBM Course Certificate:** Introduction to Cybersecurity Essentials via Coursera
-- 🏅 **Great Learning:** Blockchain Basics Completion
-- 🏅 **Stanford & DeepLearning.AI:** Supervised Machine Learning via Coursera
-- 🏅 **Hack-AI-Thon 3.0:** Certificate of Participation
+- 🏅 **IBM Course Certificate under Coursera:** Introduction to Cybersecurity Essentials via Coursera
+- 🏅 **Great Learning Certificate:** Blockchain Basics Completion
+- 🏅 **Stanford & DeepLearning.AI under Coursera:** Supervised Machine Learning via Coursera
+- 🏅 **Hack-AI-Thon 3.0:** Certificate of Participation in Hackathon conducted by AI-Colegion VESIT
 - 🏅 **Udemy:** Python and Flutter Certifications
 
 ### 🏆 Academic Excellence
 - 🏅 **Aircraft Design Workshop:** Certificate by Bharat Space Education Research Centre
-- 🏅 **Unity Certified:** Game Development Professional
-- 🏅 **Multiple Olympiads:** Mathematics, Science, Informatics, GK and English (2012-2014)
+- 🏅 **Manorama Tell Me Why Quiz by BSE:** Current Affairs and Trends
+- 🏅 **Gandharva Exam in Musical Instrument:** 3 Levels of Distinction in Synthesizer and Harmonium
+- 🏅 **Multiple Olympiads via SilverZone:** Mathematics, Science, Informatics, GK and English (2012-2014)
 - 🏅 **National Level Competitions:** Abacus & Mental Arithmetic, Spell Bee Certificate
 
 </details>
