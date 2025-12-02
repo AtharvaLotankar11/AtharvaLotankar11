@@ -221,8 +221,8 @@ const atharva = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-lotankar-51824537b)
 [![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvalotankar11@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow%20Research-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://atharva-lotankar-portfolio.onrender.com/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow%20Research-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Atharva-Lotankar)
 
 ---
 
