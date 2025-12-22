@@ -131,15 +131,6 @@
 ```
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-4ECDC4?style=flat-square&logo=vercel&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
 
-### 🔐 Zero Knowledge Proof - Cybersecurity Mini Project
-*Oct 2025*
-```
-🔹 Implemented ZKP platform with cryptographic protocols
-🔹 Modular Flask backend supporting multiple ZKP demonstrations
-🔹 Educational tool for cryptographic feature integration
-```
-[![Explorer](https://img.shields.io/badge/ZKP%20Explorer-9B59B6?style=flat-square&logo=ethereum&logoColor=white)](#) [![Website](https://img.shields.io/badge/Website-FF9800?style=flat-square&logo=firefox&logoColor=white)](#)
-
 ### 🍽️ GreenFork - Food Crisis Management Platform
 *Jan 2025 - April 2025*
 ```
