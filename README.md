@@ -19,7 +19,7 @@
 > *"Passionate about transforming education, workplace tech, and data-driven solutions through cutting-edge web development and machine learning."*
 
 🎓 **Currently:** B.Tech in Information Technology with Cloud Computing Minor at **Vivekanand Education Society's Institute of Technology, Chembur**  
-🏆 **CGPA:** 9.875/10  
+🏆 **CGPA:** 9.90/10  
 📍 **Location:** Mumbai, India  
 
 ---
