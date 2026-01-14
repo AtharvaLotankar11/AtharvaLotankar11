@@ -105,42 +105,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-</div>
-
 ---
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🎓 Student Performance Predictor Using Data Mining and Groq AI
-*Sept 2025 - Oct 2025*
-```
-🔹 AI-driven performance prediction system with machine learning
-🔹 Full-stack web interface with predictive analytics
-🔹 Personalized insights from academic and demographic data
-```
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-### 💼 OfficePulse: AI-Powered Smart Office Dashboard
-*Jul 2025 - Oct 2025*
-```
-🔹 Real-time desk booking, team chat, and video conferencing
-🔹 Full-stack web application deployed on Vercel
-🔹 Seamless workplace collaboration optimization
-```
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-4ECDC4?style=flat-square&logo=vercel&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-### 🍽️ GreenFork - Food Crisis Management Platform
-*Jan 2025 - April 2025*
-```
-🔹 Eco-friendly connection between food merchants and waste seekers
-🔹 Full-stack web application with MERN stack
-🔹 Streamlined interactions enhancing online shopping experience
-```
-[![Food Waste Management](https://img.shields.io/badge/Food%20Waste-4CAF50?style=flat-square&logo=leaf&logoColor=white)](#) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-
-</div>
 
 🏆
  Achievements & Certifications
