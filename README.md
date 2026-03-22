@@ -74,21 +74,23 @@ motto: "Transforming Ideas into Code 💻"
 ```mermaid
 timeline
     title Atharva's Growth Timeline
-    2023 : Started B.Tech IT at VESIT
-    2024 : Java OOP Railway Booking System
-         : AI Colegion VESIT Hack-AI-Thon 3.0 — Finalist
-    2025 : YOLOv8 Snooker Scoring System @ Vision Sports
+    2023 : Started my B.Tech Journey in Information Technology at VESIT
+    2024 : Java OOPM Railway Booking System
+         : AI Colegion VESIT Hack-AI-Thon 3.0 — Finalist at my First Hackathon
+         : Explored first MOOC Courses via Udemy
+    2025 : GreenFork Food Waste Platform
+         : YOLOv8 Snooker Scoring System @ Vision Sports
          : CRM Optimization (100K+ records) @ Electrolyte Solutions
          : Agentic AI Intern @ VESIT
-         : Joined Quest IT Dept Council
-    2025 : GreenFork Food Waste Platform
+    2025 : Joined Quest IT Dept Council
          : OfficePulse Smart Dashboard
-         : Multiple Hackathon Finals (Odoo, Quasar 4.0)
-         : AWS · NVIDIA · Stanford ML Certifications
-    2026 : Clinify Hospital Ecosystem
-         : TCET InnovGenius · KJSSE AgriTech Finalist
-         : Oracle Java & Blockchain Certifications
          : Senior Technical Officer — CodeFlix ML Workshop
+         : First Offline Hackathon Finalist at Odoo SPIT
+         : AWS · NVIDIA · Stanford ML Certifications
+    2026 : Clinify Hospital Ecosystem at Quasar Hackathon
+         : TCET InnovGenius · KJSSE AgriTech Finalist
+         : Finalist at CSI SPIT Hackathon (5x National Finalist Hackathon)
+         : Oracle Java & Blockchain Certifications
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
