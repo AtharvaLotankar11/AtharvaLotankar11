@@ -76,7 +76,7 @@ timeline
     title Atharva's Growth Timeline
     2023 : Started B.Tech IT at VESIT
          : Java OOP Railway Booking System
-    2024 : YOLOv8 Snooker Scoring System @ Vision Sports
+    2025 : YOLOv8 Snooker Scoring System @ Vision Sports
          : CRM Optimization (100K+ records) @ Electrolyte Solutions
          : Agentic AI Intern @ VESIT
          : Joined Quest IT Dept Council
@@ -173,16 +173,16 @@ gantt
     axisFormat  %b %Y
 
     section Quest IT Council
-    Senior Technical Officer     :active, 2024-08, 2026-03
+    Senior Technical Officer     :active, 2025-08, 2026-03
 
     section Vision Sports
-    AI/ML Project Intern         :done, 2024-06, 2024-09
+    AI/ML Project Intern         :done, 2025-06, 2025-09
 
     section Electrolyte Solutions
-    Data Analyst Intern          :done, 2024-05, 2024-08
+    Data Analyst Intern          :done, 2025-05, 2025-08
 
     section VESIT
-    Agentic AI Intern            :done, 2024-05, 2024-08
+    Agentic AI Intern            :done, 2025-05, 2025-08
 ```
 
 <br/>
@@ -192,7 +192,7 @@ gantt
 <td width="50%" valign="top">
 
 ### 🏢 Quest IT Dept Council — VESIT
-`Senior Technical Officer` · Aug 2024 – Present
+`Senior Technical Officer` · Aug 2025 – Present
 
 - 🎬 Led **CodeFlix** ML workshop → 30+ participants, 95% project success
 - 🤖 Built Netflix clone with KNN recommendation engine
@@ -203,7 +203,7 @@ gantt
 <td width="50%" valign="top">
 
 ### 🎯 Vision Sports Reconnect Pvt. Ltd.
-`AI/ML Project Intern` · Jun – Sep 2024
+`AI/ML Project Intern` · Jun – Sep 2025
 
 - 🎱 YOLOv8 snooker scoring system → **95% accuracy** across 100+ matches
 - 🔍 Developed stateful game logic with automated foul detection
@@ -216,7 +216,7 @@ gantt
 <td width="50%" valign="top">
 
 ### ⚡ Electrolyte Solutions
-`Data Analyst Intern` · May – Aug 2024
+`Data Analyst Intern` · May – Aug 2025
 
 - 👥 Led 4-member team optimizing **100K+ CRM records** for Atomberg Fans
 - 📊 Improved issue tracking visibility by **40%**
@@ -227,7 +227,7 @@ gantt
 <td width="50%" valign="top">
 
 ### 🤖 VESIT
-`Agentic AI Project Intern` · May – Aug 2024
+`Agentic AI Project Intern` · May – Aug 2025
 
 - 👥 Led Multi-Agent AI Website Builder → **40% faster development**
 - 💬 Built Human-Agent Chat, CoT, ReAct frameworks
@@ -247,7 +247,7 @@ gantt
 <td width="50%" valign="top">
 
 ### 🛒 NexCart AI — Predictive E-Commerce Platform
-`2026` · Next.js · Django REST · LSTM · Ethereum · Web3
+`Feb – Mar 2026` · Next.js · Django REST · LSTM · Ethereum · Web3
 
 > AI-driven full-stack e-commerce platform with predictive personalization and blockchain-backed order tracking
 
@@ -272,6 +272,18 @@ gantt
 <tr>
 <td width="50%" valign="top">
 
+### 📸 Instagram Wrapped 2025
+`Jan 2026` · Python · Data Processing · Privacy-First
+
+> Personalized behavioral insights from 1+ year of Instagram activity
+
+- ✅ Chat, interaction & engagement trend summaries
+- ✅ **100% private** — no data stored or shared
+- ✅ Visual narrative generation from raw exports
+
+</td>
+<td width="50%" valign="top">
+
 ### 💼 OfficePulse — Smart Office Dashboard
 `Jul – Oct 2025` · Chart.js · GROQ SDK · Socket.io · JWT
 
@@ -282,6 +294,8 @@ gantt
 - ✅ Secure community chat with real-time updates
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌱 GreenFork — Food Waste Management
@@ -292,20 +306,6 @@ gantt
 - ✅ Food waste reduced by **40%**
 - ✅ Firebase real-time notifications across 3+ device types
 - ✅ IoT composting system with Twilio SMS alerts
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📸 Instagram Wrapped 2025
-`Jan 2026` · Python · Data Processing · Privacy-First
-
-> Personalized behavioral insights from 1+ year of Instagram activity
-
-- ✅ Chat, interaction & engagement trend summaries
-- ✅ **100% private** — no data stored or shared
-- ✅ Visual narrative generation from raw exports
 
 </td>
 </tr>
