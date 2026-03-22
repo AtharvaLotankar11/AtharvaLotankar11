@@ -75,7 +75,8 @@ motto: "Transforming Ideas into Code 💻"
 timeline
     title Atharva's Growth Timeline
     2023 : Started B.Tech IT at VESIT
-         : Java OOP Railway Booking System
+    2024 : Java OOP Railway Booking System
+         : AI Colegion VESIT Hack-AI-Thon 3.0 — Finalist
     2025 : YOLOv8 Snooker Scoring System @ Vision Sports
          : CRM Optimization (100K+ records) @ Electrolyte Solutions
          : Agentic AI Intern @ VESIT
@@ -407,7 +408,7 @@ timeline
              : KJSSE AgriTech 24hr National — Finalist
     Jan 2026 : PVPPCOE Quasar 4.0 — Top 28 National
     Dec 2025 : Odoo × S.P.I.T. 24hr National — Finalist
-    Apr 2025 : AI Colegion VESIT Hack-AI-Thon 3.0
+    Apr 2025 : AI Colegion VESIT Hack-AI-Thon 3.0 — Finalist
     Feb 2025 : VESIT Ves-Hack-It via Unstop
 ```
 
