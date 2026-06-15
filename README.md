@@ -32,7 +32,7 @@
 name: Atharva Lotankar
 role: B.Tech IT Student + Cloud Computing Minor
 institute: VESIT, Chembur — Mumbai, India
-cgpa: 9.90 / 10
+cgpa: 9.92 / 10
 
 focus_areas:
   - Agentic AI & Multi-Agent Systems
